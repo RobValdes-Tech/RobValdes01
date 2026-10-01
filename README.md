@@ -1,26 +1,41 @@
-﻿# RobValdes01
-# Hi there, I'm Roberto Azael Valdes Rodriguez 👋
+# 👋 Hi there, I'm Roberto Azael Valdes Rodriguez 👋
 ## Fullstack Developer | Cloud & Middleware Architect | Technical Lead
 
-I am a highly experienced Fullstack Developer and Cloud Architect with over 25 years of expertise designing, scaling, and maintaining mission-critical enterprise applications and middleware infrastructure. My professional trajectory spans major sectors such as banking, insurance, and retail, where I have successfully led integration strategies, stabilized complex ecosystems, and optimized high-availability architectures.
+![Java](https://shields.io)
+![.NET Core](https://shields.io)
+![Azure](https://shields.io)
+![Docker](https://shields.io)
+![Generative AI](https://shields.io)
 
 ---
 
-### 🚀 About Me
-- 🧠 Focus: Enterprise Architecture (TOGAF), Microservices, and Cloud Migrations.
-- ⚙️ Expertise: Bridging legacy monolithic platforms into robust, event-driven cloud structures.
-- 🛠️ Resilience Mindset: Strong advocate for absolute zero-downtime solutions leveraging containerization, regional redundancy, and high availability.
-- 📈 Methodology: Deeply rooted in Agile practices (Scrum, Kanban, XP) and ITIL alignment for maximum SLA compliance.
+### 🎯 Recruiter Quick Summary
+*🔍 Looking for a seasoned technical leader to stabilize infrastructure, scale cloud services, or inject advanced AI efficiency into high-performing teams? Here is a quick snapshot:*
+
+- **Experience**: **25+ years** of professional experience managing enterprise systems across banking, insurance, and retail.
+- **Core Role Focus**: Solutions & Infrastructure Architect | Technical Lead | Middleware Architect.
+- **Primary Tech Stack**: Java, .NET Core, SQL Server, Microsoft Azure (AKS, APIM), and Enterprise Middleware (SOA/EDA).
+- **AI Integration**: Expert leveraging Generative AI, LLMs, and GitHub Copilot to accelerate software lifecycles and build automated digital workers.
+- **Core Value**: Resilience-first architecture design focused on high availability, containerization, regional redundancy, and zero-downtime platforms.
+- **Availability & Logistics**: Remote Work Ready.
 
 ---
 
-### 💻 Technical Skills
+### 📊 Professional Impact & Key Value
+- **Enterprise Stabilization**: Proven track record leading infrastructure due diligence and application middleware administration, driving extreme platform stability under ITIL processes and maximizing SLA compliance.
+- **Legacy Modernization**: Deep expertise bridging complex legacy monolithic structures into modern cloud-native, event-driven architectures (EDA).
+- **AI-Driven Software Lifecycles**: Skilled in integrating large language models (LLMs) and context engineering directly into software development pipelines to boost delivery speed.
+- **Continuous Innovation**: Proven ability to quickly master next-generation technologies, transitioning specialized training into immediate production-grade solutions.
+
+---
+
+### 💻 Technical Hard Skills
 
 <table>
   <tr>
     <td valign="top" width="33%">
       <strong>Backend & Core</strong><br>
-      • Java (Basics, OOP, Collections & Streams)<br>
+      • Java (OOP, Collections & Streams)<br>
       • .NET Core & Framework<br>
       • CQRS & Clean Architecture<br>
       • SQL Server, Oracle, DB2
@@ -33,31 +48,56 @@ I am a highly experienced Fullstack Developer and Cloud Architect with over 25 y
       • WebLogic, Tomcat, IIS, WebSphere
     </td>
     <td valign="top" width="34%">
-      <strong>Cloud & DevOps</strong><br>
-      • Microsoft Azure (AKS, APIM, Cosmos DB)<br>
-      • Linux Containers & Docker<br>
-      • Git & GitHub Versioning<br>
-      • CI/CD Pipelines
+      <strong>Cloud, AI & DevOps</strong><br>
+      • Microsoft Azure (AKS, APIM)<br>
+      • AI Agents & LLM Prompting<br>
+      • GitHub Copilot (Pro workflows)<br>
+      • Linux Containers & Docker
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Featured Architecture & Development Repositories
+### 🧠 Continuous Education: AI & LLM Specializations
+*A curated list of my latest specialized training focusing on artificial intelligence, agent development, and engineering optimization:*
+
+*   **Intro to AI Agents: Build an Army of Digital Workers With AI** (Udemy, 2025)
+*   **Inteligencia Artificial (IA): Interacciones y prompts** (Coursera, Oct 2025)
+*   **Generative AI: Transform Your Customer Support Career** (Coursera, Sep 2025)
+*   **Generative AI: Prompt Engineering Basics** (Coursera, Sep 2025)
+*   **Generative AI: Elevate your Software Development Career** (Coursera, Aug 2025)
+*   **GitHub Copilot: Beginner to Pro AI for Coding and Development** (Coursera, Aug 2025)
+*   **Introduction to Large Language Models** (Coursera, Aug 2025)
+
+---
+
+### 🛠️ Featured Hands-On Projects & Repositories
+
+#### ☕ Java & Spring Ecosystem
+*   **[java-microservices-jwt-gateway](https://github.com)**: Java implementation of the API Gateway and microservices architecture, focused on security tokens and cloud integration.
+*   **[curso-apis-rest-springboot](https://github.com)**: Practical application and training repository focused on designing and building robust RESTful APIs using Spring Boot.
+*   **[GSRS_gs_rest_service](https://github.com)**: A specialized rest service codebase focused on data integration and structured backend services.
+
+#### 🚀 .NET Ecosystem
 *   **[dotnet-microservices-jwt-gateway](https://github.com)**: A complete implementation of an API Gateway using .NET, highlighting modern microservices authentication pattern enforcement via secure JWT handling.
 
----
-
-### 📊 Highlighted Professional Experience
-- **Cognizant (Senior Associate Architect)**: Led enterprise application infrastructure and application middleware management for Chubb Insurance, streamlining integration interfaces (ETL) and boosting system stability under ITIL practices.
-- **GSB Solutions**: Directed core improvements and performance optimization for hybrid .NET and Java systems backed by complex SQL databases.
-- **Logistics Integration Projects**: Designed and implemented data-flow architecture for importation, reception, and automated distribution of vehicles across Veracruz ports and specialized yards.
+#### 🏗️ Architecture & Documentation
+*   **[architecture-decision-record](https://github.com)**: Enterprise repository dedicated to documenting, versioning, and tracking critical Architectural Decision Records (ADRs) within software ecosystems.
 
 ---
 
-### 📫 Connect with me
+### 📈 Career Highlights
+- **Senior Associate Architect @ Cognizant**: Managed core infrastructure and middleware integration interfaces (ETL) for Chubb Insurance, keeping critical pipelines online and optimizing support processes.
+- **Core Improvements @ GSB Solutions**: Delivered high-performance upgrades to integrated Java and .NET applications operating over relational SQL databases.
+- **Logistics Integration Systems**: Developed data-exchange automation architecture for vehicle importing logistics across major sea ports and operations yards.
+
+---
+
+### 📫 Let's Connect!
+If you have an open position that requires seasoned expertise, architectural resilience, or a technical lead who knows how to amplify team velocity using AI assistants, let's talk:
+
 - **LinkedIn**: [roberto-azael-valdes-rodriguez](https://www.linkedin.com/in/roberto-azael-valdes-rodriguez-bb76072a/)
-- **GitHub**: [@RobValdes01](https://github.com/RobValdes01)
+- **GitHub**: [@RobValdes01](https://github.com)
 
 ⚡ *“Constant training, high quality, and customer satisfaction are the cornerstones of my professional architecture philosophy.”*
