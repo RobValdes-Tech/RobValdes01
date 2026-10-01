@@ -99,5 +99,6 @@ If you have an open position that requires seasoned expertise, architectural res
 
 - **LinkedIn**: [roberto-azael-valdes-rodriguez](https://www.linkedin.com/in/roberto-azael-valdes-rodriguez-bb76072a/)
 - **GitHub**: [@RobValdes01](https://github.com)
+- **email**: [roberto.rvaldes@gmail.com](roberto.rvaldes@gmail.com)
 
 ⚡ *“Constant training, high quality, and customer satisfaction are the cornerstones of my professional architecture philosophy.”*
